@@ -1,0 +1,7 @@
+https://medium.com/codex/oop-in-javascript-encapsulation-inheritance-polymorphism-abstraction-and-association-2cbcd93bbb4f
+
+
+run files
+
+node 1_classes/1_class.js
+
